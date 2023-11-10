@@ -1,0 +1,3 @@
+[submodule "se7en-blog"]
+	path = se7en-blog
+	url = https://github.com/cr7258/se7en-blog.git
